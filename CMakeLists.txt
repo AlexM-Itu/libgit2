@@ -23,7 +23,7 @@ INCLUDE(CheckFunctionExists)
 INCLUDE(CheckStructHasMember)
 INCLUDE(AddCFlagIfSupported)
 INCLUDE(FindPkgConfig)
-
+bla bla bla
 # Build options
 #
 OPTION( SONAME				"Set the (SO)VERSION of the target"		ON  )
@@ -52,7 +52,7 @@ IF(${CMAKE_SYSTEM_NAME} MATCHES "Darwin")
 	FIND_PACKAGE(Security)
 	FIND_PACKAGE(CoreFoundation REQUIRED)
 ENDIF()
-
+foo foo foo
 IF(MSVC)
 	# This option is only available when building with MSVC. By default, libgit2
 	# is build using the cdecl calling convention, which is useful if you're
