@@ -14,7 +14,7 @@ v0.24 + 1
   global configs which contain branches.
 
 ### API additions
-
+aaalkklfgjskdlfjgskldj
 * You can now get the user-agent used by libgit2 using the
   `GIT_OPT_GET_USER_AGENT` option with `git_libgit2_opts()`.
   It is the counterpart to `GIT_OPT_SET_USER_AGENT`.
